@@ -15,7 +15,7 @@ public class TestProperties {
 static	WebDriver driver;
 
 	public static void main(String[] args) throws IOException, FileNotFoundException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub Rough.TestProperties
 		
 		Properties config = new Properties();
 		Properties OR = new Properties();
